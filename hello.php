@@ -1,4 +1,4 @@
 <?php
-echo "Meu primeiro código em PHP";
+echo "teste 2";
 phpinfo();
 ?>
